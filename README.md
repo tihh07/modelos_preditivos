@@ -40,5 +40,9 @@
 
 <h3>6. Avaliação e Validação</h3>
 <ul>
-    <li>Teste do modelo no conjunto de testes e avaliação de métr
+    <li>Teste do modelo no conjunto de testes e avaliação de métricas para validar o desempenho.</li>
+</ul>
+
+</body>
+</html>
 
